@@ -22,8 +22,5 @@ flutter run -d chrome
 ```
 
 ## Screen Shot
-![](https://raw.githubusercontent.com/sun1211/mail_app/master/screenShot/Screenshot1.png)
-![](https://raw.githubusercontent.com/sun1211/mail_app/master/screenShot/Screenshot2.png)
-![](https://raw.githubusercontent.com/sun1211/mail_app/master/screenShot/Screenshot3.png)
-![](https://raw.githubusercontent.com/sun1211/mail_app/master/screenShot/Screenshot4.png)
-![](https://raw.githubusercontent.com/sun1211/mail_app/master/screenShot/Screenshot5.png)
+![](https://raw.githubusercontent.com/sun1211/mail_app/master/screenShot/Screenshot_1613101256.png)
+![](https://raw.githubusercontent.com/sun1211/mail_app/master/screenShot/Screenshot_1613101260.png)
