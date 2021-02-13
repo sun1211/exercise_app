@@ -1,6 +1,6 @@
-# Mail App
+# Exercise Application
 
-Mail App is a demo Exercise UI
+Exercise Application is a demo Exercise UI
 
 ## Installation
 
